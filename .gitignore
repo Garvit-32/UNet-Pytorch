@@ -1,0 +1,11 @@
+test.py
+wandb
+dataset
+.vscode
+__pycache__
+checkpoints/*
+data/*
+mask/*
+!data/.keep
+!mask/.keep
+!checkpoints/.keep
